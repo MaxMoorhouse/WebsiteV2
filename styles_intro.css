@@ -1,0 +1,15 @@
+  ul.nav-list {
+    position: fixed;
+    right: 50px;
+    top: 20%;
+  }
+
+  ul.nav-list li {
+    float: none;
+  }
+
+/* removes bullets */
+
+ul {
+    list-style-type: none;
+}
