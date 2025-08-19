@@ -1,15 +1,25 @@
-  ul.nav-list {
-    position: fixed;
-    right: 50px;
-    top: 20%;
-  }
+section.article {
+  max-width: 1000px;
+} 
+  
+ul.nav-list {
+  position: fixed;
+  right: 50px;
+  top: 20%;
+}
 
-  ul.nav-list li {
-    float: none;
-  }
+ul.nav-list_local {
+  position: fixed;
+  right: 50px;
+  top: 40%;
+}
+
+ul.nav-list li {
+  float: none;
+}
 
 /* removes bullets */
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
